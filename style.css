@@ -1,0 +1,53 @@
+.sing-in{ background-color: #21b573;
+          border-radius: 20px;
+          padding: 0px 20px 0px 20px;}
+.sing-in-color{ color: white;}
+.logo{ width: 170px;}
+.Illustration-img img{ width: 100%;}
+.container{ padding-bottom: 80px;}
+button{ background-color: #21b573;
+        border: none;
+        border-radius: 25px;
+        padding: 10px 30px;
+        color: white;}
+.text-padding{ padding-bottom: 20px;}
+.any-t{ color: #21b573;
+        padding-left: 6px;}
+.backgraund-1 { background-color: #f0fff0;}
+.card1 img{width: 70px;
+             height: 100px; 
+             position: relative;
+             left: 90px;
+             padding-top: 20px;
+            }
+.img-box{ box-shadow: 5px 5px 10px lightgray;
+          border-radius: 10px;
+          padding: 60px 0px;
+          border: none;}
+.ICON{ padding-top: 50px;}
+.backgraund-icon{ background-color: #f8fffb;
+                  border-radius: 10px;
+                  border: none;
+                  padding: 60px 0px}
+.card-i { padding-top: 50px;}
+.ready-text{ color: #fd511a;}
+.card img{ width: 350px;
+           padding: 10px 10px;
+        }
+.card-shaw{ box-shadow: 5px 5px 10px lightgray;
+           border: none;
+           border-radius: 8px; }
+.Student{ padding-top: 10px;
+          font-size: 15px;}
+.testy{ width: 100px;}
+.tes-tex{ padding-right: 150px;
+          padding-top: 10px;}
+.foter-bd{ background-color: #282531;
+           color: white;
+           padding-top: 40px;}
+footer{ background-color: #282531;
+        text-align: center;
+        color: white;
+        padding-top: 20px;}
+
+
